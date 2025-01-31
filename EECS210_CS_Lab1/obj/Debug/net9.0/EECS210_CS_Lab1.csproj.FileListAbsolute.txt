@@ -1,0 +1,15 @@
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\bin\Debug\net9.0\EECS210_CS_Lab1.exe
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\bin\Debug\net9.0\EECS210_CS_Lab1.deps.json
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\bin\Debug\net9.0\EECS210_CS_Lab1.runtimeconfig.json
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\bin\Debug\net9.0\EECS210_CS_Lab1.dll
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\bin\Debug\net9.0\EECS210_CS_Lab1.pdb
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\obj\Debug\net9.0\EECS210_CS_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\obj\Debug\net9.0\EECS210_CS_Lab1.AssemblyInfoInputs.cache
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\obj\Debug\net9.0\EECS210_CS_Lab1.AssemblyInfo.cs
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\obj\Debug\net9.0\EECS210_CS_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\obj\Debug\net9.0\EECS210_CS_Lab1.sourcelink.json
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\obj\Debug\net9.0\EECS210_CS_Lab1.dll
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\obj\Debug\net9.0\refint\EECS210_CS_Lab1.dll
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\obj\Debug\net9.0\EECS210_CS_Lab1.pdb
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\obj\Debug\net9.0\EECS210_CS_Lab1.genruntimeconfig.cache
+C:\Users\eptb4\Learning-CSharp\EECS210_CS_Lab1\obj\Debug\net9.0\ref\EECS210_CS_Lab1.dll
