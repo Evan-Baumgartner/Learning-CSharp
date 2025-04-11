@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EECS 169 Lab07")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddfbebf20643625879e836da3695727cd6aa47ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+818bfb321c4404b38e58715eae5d56ba78e06b4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EECS 169 Lab07")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EECS 169 Lab07")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

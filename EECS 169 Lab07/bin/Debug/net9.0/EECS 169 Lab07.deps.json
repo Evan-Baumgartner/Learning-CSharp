@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EECS 169 Lab07/1.0.0": {
+        "runtime": {
+          "EECS 169 Lab07.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EECS 169 Lab07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
